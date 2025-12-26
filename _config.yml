@@ -7,7 +7,7 @@ baseurl: ""  # Leave as "" for user sites; use "/repo-name" for project sites
 
 # Theme settings
 remote_theme: mmistakes/minimal-mistakes@4.27.3  # Locks to a stable version; check GitHub for latest if needed
-minimal_mistakes_skin: "sunrise"  # Options: default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+minimal_mistakes_skin: "aqua"  # Options: default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
 
 # Plugins (required for theme features)
 plugins:
