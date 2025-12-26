@@ -19,3 +19,7 @@ search: true
 # Other optional settings (add if you want)
 permalink: /:categories/:title/  # Makes URLs like /knowledge/first-note/
 paginate: 5  # Posts per page in archives
+
+category_archive:
+  type: liquid
+  path: /categories/
