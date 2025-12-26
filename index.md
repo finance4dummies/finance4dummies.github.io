@@ -1,9 +1,6 @@
 ---
-layout: home  # Tells Jekyll to use the theme's home layout
+layout: default  # Tells Jekyll to use the theme's home layout
 author_profile: true  # Shows your author info in sidebar (set to false if unwanted)
-header:
-  overlay_image: /assets/images/header.jpg  # Optional: Upload a header image to /assets/images/
-  overlay_filter: 0.5  # Darkens the image for text readability
 ---
 # Welcome to My Knowledge Base
 
