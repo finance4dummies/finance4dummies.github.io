@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sunrise
 ---
 # Welcome to My Knowledge Base
 Here are my latest entries:
